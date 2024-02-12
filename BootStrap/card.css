@@ -1,0 +1,27 @@
+
+         .card-div {
+           border: 1px solid gray;
+          margin: 50px;
+          border-radius: 25px;
+          overflow: hidden;
+        }
+        .card-div img{
+          width: 100%;
+        }
+        .card-body-div{
+          padding: 20px;
+        }
+        .card-body-div a{
+          text-decoration: none;
+          padding: 15px 25px;
+          background-color: purple;
+          border-radius: 5px;
+          color:white;
+          font-weight: bold;
+          display: inline-block;
+          margin-top: 10px;
+        }
+        .carousel-item img{
+          object-position: top;
+        } 
+    
