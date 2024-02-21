@@ -1,0 +1,28 @@
+/* shofy start */
+
+a{
+    text-decoration: none;
+  }
+ .header{
+    background-image: url('../bootstrap/images/background.jpeg');
+    height: 100vh;
+    background-size: cover;
+  }
+
+  .dropdown-menu{
+    margin-left: -160px;
+  }
+  .home{
+    height: 180px;
+    width: 850PX;
+    /* margin-left: -140px; */
+   
+  }
+  .home img{
+    height: 120px;
+    width: 120px;
+  }
+
+  .page li{
+        text-emphasis-style: none;
+  }
